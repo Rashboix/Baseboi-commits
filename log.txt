@@ -99,3 +99,4 @@ guild
 run dir
 java
 hyperliquid
+coinbase
