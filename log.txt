@@ -109,4 +109,5 @@ commit panni
 veppom
 edhuku vambu
 ennnana solran
-paarunga kambi kattura
+paarunga kambi kattura kadhai ellam  
+run / exit
