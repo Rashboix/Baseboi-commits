@@ -94,3 +94,4 @@ basename
 swap
 liquidity
 github
+guild
