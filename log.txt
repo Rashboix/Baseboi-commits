@@ -100,3 +100,4 @@ run dir
 java
 hyperliquid
 coinbase
+ethereum
