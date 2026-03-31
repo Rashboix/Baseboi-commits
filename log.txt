@@ -80,3 +80,4 @@ run kaatrillai illai endral
 sandstorm
 linux
 ubuntu
+windows
