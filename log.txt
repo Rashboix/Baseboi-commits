@@ -93,3 +93,4 @@ docker
 basename
 swap
 liquidity
+github
